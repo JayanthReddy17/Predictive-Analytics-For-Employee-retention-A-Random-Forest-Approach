@@ -1,0 +1,21 @@
+# Employee Churn Prediction Project
+
+This project focuses on predicting employee churn using machine learning models, particularly Random Forest, to provide actionable insights for HR teams.
+
+## Features
+- Data preprocessing and feature engineering.
+- Machine learning models including Logistic Regression, Random Forest, and Gradient Boosting.
+- Deployment-ready Flask API.
+- Model interpretability using SHAP.
+
+
+## Usage
+- Train the model: `python train.py`
+- Predict churn: `python predict.py`
+- Start Flask app: `python app.py`
+
+## Files and Directories
+- `data/`: Contains datasets and sample inputs.
+- `models/`: Stores trained models.
+- `logs/`: Application logs.
+- `tests/`: Unit tests.
